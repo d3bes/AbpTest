@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "Abp.Test/aspnet-core/Abp.Test.sln"
+}
